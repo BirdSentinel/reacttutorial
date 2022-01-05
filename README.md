@@ -1,4 +1,4 @@
-Live demo: [http://parrotlet.stephenmiller.hu/](http://parrotlet.stephenmiller.hu/)
+Live demo: [https://stephenmiller.hu/findyourmovie](https://stephenmiller.hu/findyourmovie)
 
 ### Install (Linux)
 ```
